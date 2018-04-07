@@ -1,6 +1,9 @@
-//
 // Created by Artem Gusev on 27.03.2018.
-//
+
+/*
+ * Namespace for containers
+ */
+
 
 #pragma once
 
